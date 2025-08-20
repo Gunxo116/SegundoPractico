@@ -21,6 +21,12 @@ class AtahualpaBlanco {
 
 public class Main {
     public static void main(String[] args) {
+        EstebanRedonColab.saludo();
+        YamilBarbeitoColab.saludo();
+        AtahualpaBlanco.saludo();
+        System.out.println("Hola, soy el main de Segundo Practico");
+        clasejery.saludo();
+        System.out.println("Fin del main de Segundo Practico");
         
     }
 }
